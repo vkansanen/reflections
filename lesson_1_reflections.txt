@@ -1,0 +1,38 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It highlighted the differences between the files and I gained time by being able to focus on those directly, instead of spending time looking at secondary lines of code.
+
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	In the course of programming something complex or large scale, you may enter a rabbit hole of multiple different iterations and lose original work completely. Having all version accessible allows you to go back and look at the original framework or piece of code without reverting or trying to rebuild anything. It also helps prevent mistakes and gives your co-workers an opportunity to see how you arrived to certain points in your project.
+
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	You may end up with unwanted or irrelevant versions of the project you are working on. For example if you are experimenting or trying to incrementally change something, you may end up with versions which are incomplete/broken and those will not be helpful or even indecipherable for team mates.
+
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because of the inter-connected nature of the files. You are usually working in a coding "ecosystem", therefore you are affecting all aspects of the project when you make changes.
+
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+	Git log gives you a full run-down of all the commits made with comments and commit names. You can grab the commit names and use git diff to inspect the differences between commits and ascertain what and how much has been changed between commits. (- signs for removal, + signs for additions). (Use Q to exit the log view.)
+
+
+6. How might using version control make you more confident to make changes that could break something?
+
+	It makes all mistakes reversible and detectable. It allows me to explore deep concepts of the project without fear.
+
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to test it on my portfolio website. :)
+
+
+8. What happens when you initialize a repository? Why do you need to do it?
+
+	You create a new trackable repository.
