@@ -6,3 +6,12 @@
 2. How can you use the staging area to make sure you have one commit per logical change?
 
 		You can use diff to compare the working files and repository file to remain consistent.
+
+
+3. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+		Branches help when you need to follow up with complex revisions and maintain a clean file organization. The branches can act as their own side-projects and eventually spawn new concepts/ideas which can be merged into the master.
+
+4. How do the diagrams help you visualize the branch structure?
+
+		They give you a visualization of reachable commits and the commit structure and any/all overlap which occurs between branches and commits. They also give you an illustration of which points to merge your project.
