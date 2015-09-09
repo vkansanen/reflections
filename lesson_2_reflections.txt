@@ -15,3 +15,7 @@
 4. How do the diagrams help you visualize the branch structure?
 
 		They give you a visualization of reachable commits and the commit structure and any/all overlap which occurs between branches and commits. They also give you an illustration of which points to merge your project.
+
+5. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+		Automatic merging removes user error and gives you a log of code to compare and contrast changes. Manually making changes is more cumbersome and may lead to errors.
