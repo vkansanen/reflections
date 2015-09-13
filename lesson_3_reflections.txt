@@ -13,3 +13,7 @@
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	Back-up in case something you push is destructive or very time consuming to revert back to.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would use Dropbox. It would have less steps to update files. It would be harder to keep backups and to merge changes in collaborative efforts.
