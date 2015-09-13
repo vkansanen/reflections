@@ -10,3 +10,6 @@
 
 	I would use fork when basing work off someone else's repository but not having permission or relation with the original repository. I would clone when I want to keep the repository in its current state but continue to work on it, or copy someone else's repository. I would create a branch when the master is in a good individual state but I want to try something or build new things on it without disturbing it, for example if it were a "production" version of the code.
 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Back-up in case something you push is destructive or very time consuming to revert back to.
